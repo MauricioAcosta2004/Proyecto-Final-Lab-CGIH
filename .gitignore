@@ -1,0 +1,27 @@
+# Carpetas de compilacion y de Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+ProyectoFinal/Debug/
+ProyectoFinal/Release/
+ProyectoFinal/x64/
+
+# Archivos intermedios
+*.pdb
+*.ilk
+*.obj.tmp
+*.tlog
+*.log
+*.recipe
+*.iobj
+*.ipdb
+*.user.bak
+
+# Respaldos de trabajo y archivos comprimidos
+TallerMecanico_respaldo_*.txt
+*.zip
+*.rar
+*.7z
+
+# El ejecutable de entrega SI se sube (ProyectoFinal/ProyectoFinal.exe y sus DLL)
