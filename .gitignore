@@ -24,4 +24,5 @@ TallerMecanico_respaldo_*.txt
 *.rar
 *.7z
 
-# El ejecutable de entrega SI se sube (ProyectoFinal/ProyectoFinal.exe y sus DLL)
+# El ejecutable de entrega vive en Ejecutable/ (se sube); el de la carpeta del proyecto no
+ProyectoFinal/ProyectoFinal.exe

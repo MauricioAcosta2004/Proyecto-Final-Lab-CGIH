@@ -6,15 +6,15 @@ con GLFW, GLEW, GLM, SOIL2 y Assimp sobre el codigo base proporcionado por el pr
 
 ## Como ejecutarlo
 
-1. Abre la carpeta `ProyectoFinal/`.
+1. Abre la carpeta `Ejecutable/`.
 2. Ejecuta `ProyectoFinal.exe` con doble clic (32 bits). No necesita Visual Studio.
 3. Si falta alguna DLL, instala el Visual C++ Redistributable de 32 bits (x86) de Microsoft.
 
-El ejecutable debe permanecer junto a las carpetas `Models` y `Shader` y a sus DLL.
+El ejecutable debe permanecer junto a las carpetas `Models` y `Shader` y a sus DLL, que ya estan en `Ejecutable/`.
 
 ## Como compilarlo
 
-Abre `ProyectoFinal.slnx` en Visual Studio, elige **Release** y **x86** y compila la solucion.
+Abre `ProyectoFinal.slnx` en Visual Studio, elige **Release** y **x86**, compila y ejecuta. El codigo fuente esta en `ProyectoFinal/`.
 
 ## Controles
 
@@ -48,8 +48,9 @@ extintores, llanta, llave de cruz, elevador, Mercedes, sedan, mecanico, trabajad
 
 ```
 ProyectoFinal/
-|-- Documentacion/       manuales de usuario y tecnico
-|-- Referencias/         fotografias de referencia
+|-- Ejecutable/          ejecutable, DLL, Models y Shader (listo para abrir)
+|-- ProyectoFinal/       codigo fuente, Shader, Models y proyecto de Visual Studio
 |-- External Libraries/  GLEW, GLFW y Assimp
-`-- ProyectoFinal/       codigo, Shader, Models, ejecutable y DLL
+|-- Documentacion/       manuales de usuario y tecnico
+`-- Referencias/         fotografias de referencia
 ```
