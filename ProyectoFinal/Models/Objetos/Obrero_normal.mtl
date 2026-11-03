@@ -1,0 +1,55 @@
+newmtl middleage_cauasian_male
+Kd 1 1 1
+Ks 0.02 0.02 0.02
+Ns 10
+d 1
+illum 2
+map_Kd Obrero2_piel.jpg
+
+newmtl short02
+Kd 1 1 1
+Ks 0.02 0.02 0.02
+Ns 10
+d 1
+illum 2
+map_Kd Obrero2_cabello.jpg
+
+newmtl Eyeblue
+Kd 1 1 1
+Ks 0.02 0.02 0.02
+Ns 10
+d 1
+illum 2
+map_Kd Obrero2_ojo.png
+
+newmtl teethMaterial
+Kd 1 1 1
+Ks 0.02 0.02 0.02
+Ns 10
+d 1
+illum 2
+map_Kd Obrero_dientes.png
+
+newmtl tongue01Material
+Kd 1 1 1
+Ks 0.02 0.02 0.02
+Ns 10
+d 1
+illum 2
+map_Kd Obrero_lengua.jpg
+
+newmtl shoes01
+Kd 1 1 1
+Ks 0.02 0.02 0.02
+Ns 10
+d 1
+illum 2
+map_Kd Obrero2_zapatos.jpg
+
+newmtl male_worksuit01
+Kd 1 1 1
+Ks 0.02 0.02 0.02
+Ns 10
+d 1
+illum 2
+map_Kd Obrero_traje.jpg
