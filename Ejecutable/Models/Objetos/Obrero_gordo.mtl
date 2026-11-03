@@ -1,0 +1,47 @@
+newmtl old_caucasian_male
+Kd 1 1 1
+Ks 0.02 0.02 0.02
+Ns 10
+d 1
+illum 2
+map_Kd Obrero1_piel.jpg
+
+newmtl Eye_grey
+Kd 1 1 1
+Ks 0.02 0.02 0.02
+Ns 10
+d 1
+illum 2
+map_Kd Obrero1_ojo.png
+
+newmtl teethMaterial
+Kd 1 1 1
+Ks 0.02 0.02 0.02
+Ns 10
+d 1
+illum 2
+map_Kd Obrero_dientes.png
+
+newmtl tongue01Material
+Kd 1 1 1
+Ks 0.02 0.02 0.02
+Ns 10
+d 1
+illum 2
+map_Kd Obrero_lengua.jpg
+
+newmtl Shoes02
+Kd 1 1 1
+Ks 0.02 0.02 0.02
+Ns 10
+d 1
+illum 2
+map_Kd Obrero1_zapatos.jpg
+
+newmtl male_worksuit01
+Kd 1 1 1
+Ks 0.02 0.02 0.02
+Ns 10
+d 1
+illum 2
+map_Kd Obrero_traje.jpg
